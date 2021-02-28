@@ -16,16 +16,19 @@ Implementation of Quantum Feature Maps from [Analysis and synthesis of feature m
 
 ## Citation
 
+```
 @article{Suzuki_2020,
-title={Analysis and synthesis of feature map for kernel-based quantum classifier},
-volume={2},
-ISSN={2524-4914},
-url={http://dx.doi.org/10.1007/s42484-020-00020-y},
-DOI={10.1007/s42484-020-00020-y},
-number={1},
-journal={Quantum Machine Intelligence},
-publisher={Springer Science and Business Media LLC},
-author={Suzuki, Yudai and Yano, Hiroshi and Gao, Qi and Uno, Shumpei and Tanaka, Tomoki and Akiyama, Manato and Yamamoto, Naoki},
-year={2020},
-month={Jun}
+    title={Analysis and synthesis of feature map for kernel-based quantum classifier},
+    volume={2},
+    ISSN={2524-4914},
+    url={http://dx.doi.org/10.1007/s42484-020-00020-y},
+    DOI={10.1007/s42484-020-00020-y},
+    number={1},
+    journal={Quantum Machine Intelligence},
+    publisher={Springer Science and Business Media LLC},
+    author={Suzuki, Yudai and Yano, Hiroshi and Gao, Qi and Uno, Shumpei and Tanaka, Tomoki and Akiyama, Manato and Yamamoto, Naoki},
+    year={2020},
+    month={Jun}
 }
+
+```
